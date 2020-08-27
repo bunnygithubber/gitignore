@@ -3,3 +3,6 @@ new-file.txt
 
 #ignoring folders
 bin/
+
+#ignoring files having extension .tmp
+*.tmp
